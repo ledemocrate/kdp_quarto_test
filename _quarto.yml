@@ -6,7 +6,7 @@ book:
   author: "Bruno Rodrigues"
   date: "2023-06-28"
   search: true
-  repo-url: "https://github.com/b-rodrigues/kdp_quarto"
+  repo-url: "https://github.com/ledemocrate/kdp_quarto_test"
   repo-actions: [edit]
   sharing: [twitter, facebook]
   downloads: [pdf, epub]
